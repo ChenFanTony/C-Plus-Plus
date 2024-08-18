@@ -13,7 +13,7 @@
 <area shape="poly" id="edge9_Node000005_Node000004" title=" " alt="" coords="454,200,721,191,721,196,455,205"/>
 <area shape="rect" id="Node000006" href="$dd/d40/classdata__structures_1_1tree__234_1_1_node.html#a8e809ae85ae00e937f67ddb76951b6bb" title="Insert item to the proper position of the node and return the position index." alt="" coords="502,236,657,277"/>
 <area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="442,224,487,234,486,239,441,229"/>
-<area shape="rect" id="Node000009" href="$dd/d40/classdata__structures_1_1tree__234_1_1_node.html#ab4e5f7b7b260bb81d9441652cc124c74" title="Set child pointer to the position of index." alt="" coords="507,301,653,342"/>
+<area shape="rect" id="Node000009" href="$dd/d40/classdata__structures_1_1tree__234_1_1_node.html#ab4e5f7b7b260bb81d9441652cc124c74" title="Set child pointer to the position of index." alt="" coords="506,301,653,342"/>
 <area shape="poly" id="edge10_Node000005_Node000009" title=" " alt="" coords="430,224,455,237,471,249,480,262,490,274,504,286,512,291,509,296,500,290,486,277,476,265,467,253,453,241,428,229"/>
 <area shape="poly" id="edge8_Node000006_Node000004" title=" " alt="" coords="652,233,720,213,722,218,653,238"/>
 <area shape="rect" id="Node000007" href="$dd/d40/classdata__structures_1_1tree__234_1_1_node.html#a22fd25c6c811c64b6b27b0850d8c532f" title="Check if item is in the node." alt="" coords="733,236,881,277"/>
